@@ -1,0 +1,9 @@
+[package]
+name = "serve"
+version = "0.1.0"
+authors = ["Saju Thankappan <sajuthankappan@gmail.com>"]
+
+[dependencies]
+iron = "*"
+mount = "*"
+staticfile = "*"
